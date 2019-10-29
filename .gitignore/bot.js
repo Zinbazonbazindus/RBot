@@ -30,7 +30,7 @@ class Bot {
 
             this.randomizeRoleColors();
 
-        }, Config.randomize_delay*470);
+        }, Config.randomize_delay*270);
 
     }
 
